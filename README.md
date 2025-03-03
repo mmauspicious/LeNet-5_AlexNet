@@ -1,4 +1,4 @@
-**Project Title: AI Course First Project – Multiclass Image Classification**
+**AI Course First Project – Multiclass Image Classification**
 
 **Project Description:**
 
