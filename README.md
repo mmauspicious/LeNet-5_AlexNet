@@ -1,6 +1,6 @@
 **AI Course First Project – Multiclass Image Classification**
 
-**Project Description:**
+**Project Description**
 
 This project tackles a multiclass classification challenge using image data. Your task is to obtain images from Kaggle, ensuring that each class contains no more than 60 images, with a minimum of three distinct classes. The images may represent various fields such as medical, dental, engineering, or others.
 
